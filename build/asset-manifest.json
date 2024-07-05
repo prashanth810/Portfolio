@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9eaa47b.css",
+    "main.js": "/static/js/main.a4fe96bb.js",
+    "static/js/453.612510cc.chunk.js": "/static/js/453.612510cc.chunk.js",
+    "static/media/Old house.png": "/static/media/Old house.b44ae615d66277de3edb.png",
+    "static/media/Educa.png": "/static/media/Educa.48c350b5ff0d2c83bdb8.png",
+    "static/media/myimage2.jpg": "/static/media/myimage2.781c4d7d24b91cf24fc9.jpg",
+    "static/media/Parcelyogi.png": "/static/media/Parcelyogi.72428e7b1d0bd08fdd4d.png",
+    "static/media/Wallclock.png": "/static/media/Wallclock.55562e276f8dddc1890b.png",
+    "static/media/Registration.png": "/static/media/Registration.383b96d3720bfea9de76.png",
+    "static/media/form validations.png": "/static/media/form validations.46ecd15c03e31f01275f.png",
+    "static/media/Making circles on browser.png": "/static/media/Making circles on browser.d43c37140ec934b9a0df.png",
+    "index.html": "/index.html",
+    "main.a9eaa47b.css.map": "/static/css/main.a9eaa47b.css.map",
+    "main.a4fe96bb.js.map": "/static/js/main.a4fe96bb.js.map",
+    "453.612510cc.chunk.js.map": "/static/js/453.612510cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9eaa47b.css",
+    "static/js/main.a4fe96bb.js"
+  ]
+}
